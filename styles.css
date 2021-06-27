@@ -41,3 +41,8 @@ body {
   width: 100%;
   padding: 20px;
 }
+
+iframe {
+    display: block;
+    border-style:none;
+}
